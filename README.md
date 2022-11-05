@@ -16,7 +16,7 @@
 * Electicity calculation techniques
 
 ## Published pages:
-* https://khiemfle.notion.site/home-elect-7698e84d74ad48228e06435c9e22d3b6
-* Dashboard: https://khiemfle.notion.site/H-E-Dashboard-a303ac6894ee4ecfb2e5b32818bb2f23
+* https://home-elect.notion.site/home-elect-7698e84d74ad48228e06435c9e22d3b6
+* Dashboard: https://home-elect.notion.site/H-E-Dashboard-a303ac6894ee4ecfb2e5b32818bb2f23
 
 ## References
