@@ -1,4 +1,4 @@
-# home-elect
+# :electric_plug: home-elect
 ## Technical points
 * Notion
   * Blocks
