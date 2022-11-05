@@ -6,6 +6,10 @@
     * Database relations
   * Formulas
   * Icons
+
+  The advantage of Notion is each user can manage their own electricity data and in their perspectives
+  We can share templates about Electicity formulas so a user can apply with their current data to have more advanced views to their electricity usage.
+
 * Electicity calculation techniques
 
 ## Published pages:
